@@ -103,7 +103,7 @@ img {
 }
 
 @media (max-width: 567px) {
-
+  
   #desktopOnly {
     display: none;
   }
@@ -118,6 +118,8 @@ img {
     color: var(--mobile-links);
     border: 2px solid var(--mobile-links);
     box-shadow: var(--box-shadow);
+    display: block;
+    text-align: center;
   }
   #navigation {
     color: var(--mobile-links);
