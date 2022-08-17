@@ -47,10 +47,17 @@ h4 {
   padding: 20px 40px;
   }
 
+#photo {
+max-width: 600px;
+display: flex;
+margin: 0 auto;
+}
+
 p {
   font-size: 18px;
   line-height: 2;
 }
+
 #navigation {
   font-family: var(--font-accent);
 }
@@ -112,6 +119,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 .primary-link {
   color: black;
   border: 1px solid var(--primary-color);
@@ -123,11 +131,24 @@ img {
   text-transform: capitalize;
   font-family: var(--font-accent);
 }
+
 .primary-link:hover {
   color: var(--secondary-color);
 }
+
 .heading {
   text-align: center;
+}
+
+.social-media {
+display: flex;
+margin: 0 auto;
+text-decoration: none;
+font-family: var(--font-accent);
+font-size: 34px;
+text-align: center;
+}
+
 }
 
 @media (max-width: 567px) {
