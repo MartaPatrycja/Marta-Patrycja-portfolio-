@@ -40,9 +40,11 @@ h4 {
 #contact {
   display: block;
   margin: 0 auto;
+  margin-bottom: 25px;
   color: var(--primary-color);
   font-size: 34px;
   text-decoration: none;
+  padding: 20px 40px;
   }
 
 p {
