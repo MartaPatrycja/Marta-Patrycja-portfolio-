@@ -114,13 +114,14 @@ p {
 
 img {
   display: flex;
-margin: 0 auto;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
 }
 
 #photo {
-  max-width: 600px;
+  display:flex;
+  margin: 0 auto;
   }
 
 .primary-link {
@@ -144,11 +145,11 @@ margin: 0 auto;
 }
 
 .social-media {
-display: flex;
-margin: 0 auto;
-text-decoration: none;
-font-family: var(--font-accent);
-font-size: 34px
+text-align: center;
+list-style: none;
+font-size: 34px;
+padding: 20px 0;
+
 }
 
 
