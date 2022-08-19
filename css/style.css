@@ -151,7 +151,6 @@ font-family: var(--font-accent);
 font-size: 34px
 }
 
-}
 
 @media (max-width: 567px) {
   
@@ -159,9 +158,14 @@ font-size: 34px
     display: none;
   }
 
-  h3 {
-  color: var(--mobile-headings);
-  margin-top: 70px;
+  h1,
+  h2 {
+    color: var(--mobile-headings);
+    font-size: 48px;
+  }
+
+  h4 {
+  margin-top: 30px;
   }
   .primary-link,
   .contact-link,
@@ -174,5 +178,8 @@ font-size: 34px
   }
   #navigation {
     color: var(--mobile-links);
+  }
+  .email-link {
+    font-size: 18px;
   }
 }
