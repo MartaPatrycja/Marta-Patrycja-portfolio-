@@ -178,9 +178,15 @@ padding: 20px 0;
     text-align: center;
   }
   #navigation {
-    color: var(--mobile-links);
+    color: var(--mobile-headings);
   }
   .email-link {
     font-size: 18px;
   }
+  .social-media {
+    font-size: 18px;
+  }
+  #contact{
+    font-size: 18px;
+    color: var(--mobile-links);
 }
