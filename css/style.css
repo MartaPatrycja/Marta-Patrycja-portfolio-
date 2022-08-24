@@ -140,12 +140,18 @@ img {
   text-align: center;
 }
 
-.social-media {
-text-align: center;
-list-style: none;
-font-size: 34px;
-padding: 20px 0;
+ul#social-media {
+  list-style-type: none;
+  column-width: auto;
+  column-count: 3;
+  text-align: center;
+  font-size: 34px;
+  padding: 20px 0;
+  color: var(--mobile-links);
+}
 
+a {
+  color: var(--mobile-links);
 }
 
   ul#tech-skills {
