@@ -48,7 +48,11 @@ h5 {
   margin-top: 90px;
 }
 #work-iquiry {
-  color: var(--mobile-links);
+  color: var(--primary-color);
+}
+
+#about {
+  margin-top: 80px;
 }
   
 #contact {
@@ -143,7 +147,7 @@ p {
 
 .about-paragraphs, p {
   display: flex;
-  margin: 30px 30px;
+  margin: 30px 0px;
 }
 
 .email-link {
@@ -200,7 +204,7 @@ a {
     column-width: auto;
     column-count: 4;
     text-align: center;
-    font-size: 24px;
+    font-size: 34px;
     padding: 20px 0;
     color: var(--mobile-links);
   }
