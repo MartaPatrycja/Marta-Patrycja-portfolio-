@@ -46,7 +46,6 @@ h5 {
 
 #top {
   margin-top: 90px;
-  color: var(--mobile-links);
 }
 #work-iquiry {
   color: var(--mobile-links);
@@ -131,7 +130,8 @@ p {
   font-size: 2em;
 }
 .primary-link:hover {
-  color: black; 
+  color: white;
+  background: var(--bg-color);
   }
 
 .about-paragraphs, p {
