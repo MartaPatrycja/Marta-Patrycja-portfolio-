@@ -160,6 +160,7 @@ p {
 }
 
 img {
+  
   display: flex;
   margin: 0 auto;
   max-width: 100%;
@@ -168,9 +169,10 @@ img {
 }
 
 #photo {
+  
   display:flex;
   margin: 0 auto;
-  max-width: 40%
+  max-width: 100%;
   }
 
 .heading {
@@ -184,6 +186,9 @@ ul#social-media {
   text-align: center;
   font-size: 34px;
   color: var(--mobile-links);
+}
+.social-media:hover {
+  color: var(--bg-color);
 }
 
 a {
