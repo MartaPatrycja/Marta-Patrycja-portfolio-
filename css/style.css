@@ -45,7 +45,7 @@ h5 {
 }
 
 #top {
-  margin-top: 50px;
+  margin-top: 90px;
   color: var(--mobile-links);
 }
 #work-iquiry {
@@ -68,8 +68,13 @@ p {
   line-height: 2;
 }
 
+.navbar {
+  font-size: 34px;
+}
+
 #navigation {
   font-family: var(--font-accent);
+  font-size: 34px;
 }
 
 .navigation-links {
@@ -158,6 +163,7 @@ img {
 #photo {
   display:flex;
   margin: 0 auto;
+  max-width: 40%
   }
 
 .heading {
