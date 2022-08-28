@@ -233,15 +233,23 @@ a {
   h2,
   h5 {
     font-size: 38px;
+    margin-top: 10px;
   }
-h3{
-  font-size: 28px;
-}
+
+  h3 {
+    font-size: 28px;
+    margin-top: 10px;
+  }
 
   h4 {
-  margin-top: 30px;
-  font-size: 24px;
+    font-size: 24px;
+    margin-top: 10px;
   }
+
+  #top {
+  margin-top: 55px;
+  }
+
   .primary-link,
   .contact-link,
   .about-link {
@@ -266,6 +274,7 @@ h3{
   }
   #contact{
     font-size: 18px;
+    margin-top: 20px;
   }
 
   ul#tech-skills {
