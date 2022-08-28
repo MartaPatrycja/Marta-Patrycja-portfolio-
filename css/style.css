@@ -219,6 +219,11 @@ a {
     color: var(--primary-color);
   }
 
+  footer {
+  padding-top: 40px;
+  color: var(--secondary-color);
+  }
+
 @media (max-width: 567px) {
   
 
