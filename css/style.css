@@ -108,7 +108,8 @@ p {
   display: block;
   color: black;
   border: 1px solid var(--bg-color);
-  border-radius: 40px;  
+  border-radius: 40px;
+  transition: all 100ms ease-in-out;  
 }
 
 .contact-link:hover {
@@ -122,6 +123,7 @@ p {
   color: black;
   border: 1px solid var(--bg-color);
   border-radius: 40px;
+  transition: all 100ms ease-in-out;
 }
 
 .homepage-link {
@@ -129,6 +131,7 @@ p {
   text-align: center;
   display: block;
   border-radius: 40px;
+  transition: all 100ms ease-in-out;
 }
 
 .primary-link {
@@ -160,6 +163,7 @@ p {
   color: black;
   font-size: 34px;
   text-decoration: none;
+  transition: all 100ms ease-in-out;
 }
 
 .email-link:hover {
@@ -196,6 +200,7 @@ img {
 #linkedin:hover,
 #instagram:hover{
   color: var(--bg-color);
+  transition: all 100ms ease-in-out;
 }
 
 a {
@@ -221,6 +226,7 @@ a {
   #open-sourced a {
   font-size: 20px;
   color: var(--secondary-color);
+  transition: all 100ms ease-in-out;
   }
 
 @media (max-width: 567px) {
