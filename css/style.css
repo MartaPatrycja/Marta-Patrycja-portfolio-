@@ -2,7 +2,6 @@
   --primary-color:grey;
   --secondary-color: #bdb6bc;
   --mobile-links: #006ec4;
-  --mobile-headings: #1ab2a8;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   --font-accent: 'Kanit', sans-serif;
   --bg-color: #FEB149;
@@ -192,7 +191,7 @@ img {
 .social-media a {
   text-align: center;
   margin: 60px 20px;
-  font-size: 54px;
+  font-size: 74px;
   color: var(--mobile-links);
 }
 
@@ -209,13 +208,13 @@ a {
 
   ul#tech-skills {
     list-style-type: none;
-    max-width: 600px;
+    max-width: 1000px;
     margin: 0 auto;
     column-width: auto;
     column-count: 4;
     text-align: center;
     font-size: 34px;
-    padding: 20px 0;
+    padding: 20px 60px;
     color: var(--mobile-links);
   }
   
@@ -249,7 +248,7 @@ a {
   }
 
   #top {
-  margin-top: 55px;
+  margin-top: 65px;
   }
 
   .primary-link,
