@@ -72,7 +72,7 @@ h5 {
 
 p {
   font-size: 24px;
-  line-height: 2;
+  line-height: 1,5em;
 }
 
 .navbar {
@@ -87,13 +87,14 @@ p {
 .navigation-links {
   font-family: var(--font-accent);
   display: flex;
-  margin-top: 40px;
+  margin: 0 auto;
+  padding-top: 90px;
   justify-content: center;
+  max-width: 100px;
 }
 
 .navigation-links a {
   color: var(--primary-color);
-  margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
@@ -187,15 +188,13 @@ img {
   text-align: center;
 }
 
-ul#social-media {
-  list-style-type: none;
-  column-width: auto;
-  column-count: 3;
+.social-media a {
   text-align: center;
-  font-size: 34px;
-  margin-top: 90px;
+  margin: 60px 20px;
+  font-size: 54px;
   color: var(--mobile-links);
 }
+
 .social-media:hover {
   color: var(--bg-color);
 }
@@ -206,6 +205,8 @@ a {
 
   ul#tech-skills {
     list-style-type: none;
+    max-width: 600px;
+    margin: 0 auto;
     column-width: auto;
     column-count: 4;
     text-align: center;
