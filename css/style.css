@@ -192,7 +192,9 @@ img {
   color: var(--mobile-links);
 }
 
-.social-media:hover {
+#gitHub:hover,
+#linkedin:hover,
+#instagram:hover{
   color: var(--bg-color);
 }
 
