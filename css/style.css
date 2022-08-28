@@ -221,22 +221,22 @@ a {
     color: var(--primary-color);
   }
 
-  footer {
-  padding-top: 40px;
+  #open-sourced a {
+  font-size: 20px;
+  padding-top: 90px;
   color: var(--secondary-color);
   }
 
 @media (max-width: 567px) {
   
-
   h1,
   h2,
   h5 {
     font-size: 38px;
   }
-  h2 {
-    color: var(--mobile-links);
-  }
+h3{
+  font-size: 28px;
+}
 
   h4 {
   margin-top: 30px;
@@ -258,9 +258,6 @@ a {
   border: 1px solid var(--bg-color);
 }
 
-  #navigation {
-    color: var(--mobile-headings);
-  }
   .email-link {
     font-size: 18px;
   }
@@ -269,7 +266,6 @@ a {
   }
   #contact{
     font-size: 18px;
-    color: var(--mobile-links);
   }
 
   ul#tech-skills {
@@ -289,5 +285,10 @@ a {
   #contact-me {
     padding: 0 auto;
   }
+
+  #open-sourced a {
+    padding-top: 20px;
+    font-size: 18px;
+    }
   
 }
