@@ -76,12 +76,12 @@ p {
 }
 
 .navbar {
-  font-size: 34px;
+  font-size: 24px;
 }
 
 #navigation {
   font-family: var(--font-accent);
-  font-size: 34px;
+  font-size: 24px;
 }
 
 .navigation-links {
