@@ -223,7 +223,7 @@ a {
   }
 
   #open-sourced a {
-  font-size: 20px;
+  font-size: 24px;
   color: var(--secondary-color);
   transition: all 100ms ease-in-out;
   }
