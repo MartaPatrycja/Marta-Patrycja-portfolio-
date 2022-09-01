@@ -208,7 +208,7 @@ a {
 
   ul#tech-skills {
     list-style-type: none;
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
     column-width: auto;
     column-count: 4;
@@ -280,6 +280,11 @@ a {
   ul#tech-skills {
     font-size: 18px;
   }
+
+  .skill-text {
+    font-size: 10px;
+  }  
+
   .about-paragraphs, p {
     font-size: 12px;
     margin: 15px 15px;
@@ -296,8 +301,8 @@ a {
   }
 
   #open-sourced a {
-    padding-top: 20px;
-    font-size: 18px;
+    font-size: 12px;
+    color: white;
     }
   
 }
