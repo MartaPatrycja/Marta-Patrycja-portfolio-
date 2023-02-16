@@ -233,10 +233,12 @@ a {
   h4,
   h5 {
     font-size: 28px;
+    text-align: center;
   }
   h1,
   #contact-me {
     font-size: 38px;
+    text-align: center;
   }
   
   #top {
