@@ -61,6 +61,7 @@ ul {
   background-color: var(--bg-color);
   color: white;
   margin-top: 70px;
+  padding: 40px 0;
   font-size: 54px;
   text-decoration: none;
   border-radius: 40px;
