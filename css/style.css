@@ -179,7 +179,7 @@ img {
 #photo {
   display: flex;
   margin-top: 80px;
-  max-width: 120%;
+  max-width: 100%;
   }
 
 .heading {
