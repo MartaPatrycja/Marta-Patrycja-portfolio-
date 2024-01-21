@@ -186,6 +186,12 @@ img {
   padding-left: 50px;
 }
 
+.language {
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .heading {
   text-align: center;
 }
