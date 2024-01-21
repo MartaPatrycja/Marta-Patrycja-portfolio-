@@ -189,6 +189,7 @@ img {
 .language {
   display: flex;
   margin: 0 auto;
+  color: black;
   text-align: center;
 }
 
