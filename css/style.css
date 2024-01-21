@@ -84,9 +84,9 @@ p {
   display: block;
   font-family: var(--font-accent);
   color: var(--primary-color);
-    border: var(--bg-color);
-    border-radius: 20px;
-    font-size: 20px;
+  border: var(--bg-color);
+  border-radius: 20px;
+  font-size: 20px;
   padding: 20px 15px;
   text-decoration: none;
 }
