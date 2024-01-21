@@ -252,7 +252,8 @@ img {
     margin: 15px 15px;
   }
 
-  p {
+  p, 
+  #description-paragraphs {
     background: var(--bg-color);
     padding: 10px 10px;
     border-radius: 10px;
