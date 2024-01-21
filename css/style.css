@@ -35,9 +35,9 @@ h5 {
 }
 
 ul {
-  display: inline-block;
-  margin: 0 auto;
   list-style-type: none;
+  font-size: 22px;
+  line-height: 1,5em;
 }
 
 #collaboration,
