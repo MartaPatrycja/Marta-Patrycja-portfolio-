@@ -192,9 +192,8 @@ img {
   color: var(--mobile-links);
 }
 
-#gitHub:hover,
-#linkedin:hover,
-#instagram:hover{
+#github:hover,
+#linkedin:hover {
   color: var(--bg-color);
   transition: all 100ms ease-in-out;
 }
