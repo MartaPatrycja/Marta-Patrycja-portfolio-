@@ -71,6 +71,9 @@ p {
 
 .navbar {
   font-size: 24px;
+}
+
+.navbar-nav {
   text-align: right;
 }
 
