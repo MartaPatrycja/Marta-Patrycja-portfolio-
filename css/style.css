@@ -216,6 +216,18 @@ img {
   margin-top: 65px;
   }
 
+  #contact-me {
+    display: block;
+    margin: 0 auto;
+    background-color: var(--bg-color);
+    color: white;
+    margin-top: 10px;
+    padding: 10px 0;
+    font-size: 34px;
+    text-decoration: none;
+    border-radius: 40px;
+    }
+
   .email-link {
     font-size: 22px;
   }
