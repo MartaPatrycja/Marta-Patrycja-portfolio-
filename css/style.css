@@ -79,7 +79,7 @@ p {
   font-size: 24px;
 }
 
-a {
+.footer-button {
   margin: 0 auto;
   display: block;
   font-family: var(--font-accent);
@@ -90,7 +90,8 @@ a {
   padding: 20px 15px;
   text-decoration: none;
 }
-a:hover {
+
+.footer-button:hover {
   transition: all 100ms ease-in-out;
 }
 
