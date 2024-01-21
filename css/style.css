@@ -212,7 +212,7 @@ a {
     text-decoration: none;
     text-transform: capitalize;
   }
-  
+
   #open-sourced a {
   font-size: 24px;
   color: var(--secondary-color);
@@ -228,7 +228,8 @@ a {
     font-size: 28px;
     text-align: center;
   }
-  h1,{
+  
+  h1 {
     font-size: 28px;
   }
   
