@@ -180,7 +180,7 @@ img {
   color: var(--primary-color);
   border-color: var(--bg-color);
   border-radius: 20px;
-  font-size: 20px;
+  font-size: 60px;
   padding: 20px 15px;
   text-decoration: none;
 }
