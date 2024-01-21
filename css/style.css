@@ -35,8 +35,8 @@ h5 {
 }
 
 li {
-  display: flexbox;
-  text-decoration: none;
+  display: grid;
+  list-style-type: none;
 }
 
 #collaboration,
