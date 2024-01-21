@@ -34,8 +34,8 @@ h5 {
   font-size: 44px; 
 }
 
-li {
-  display: grid;
+ul {
+  display: inline-block;
   list-style-type: none;
 }
 
