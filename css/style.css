@@ -195,23 +195,24 @@ img {
 a {
   color: var(--mobile-links);
 }
-
-  ul#tech-skills {
-    list-style-type: none;
-    max-width: 1200px;
+  
+  .footer-button {
+    font-family: var(--font-accent);
+    display: flex;
     margin: 0 auto;
-    column-width: auto;
-    column-count: 4;
-    text-align: center;
-    font-size: 34px;
-    padding: 20px 60px;
-    color: var(--mobile-links);
+    justify-content: center;
+    max-width: 100px;
+    transition: all 100ms ease-in-out;
   }
   
-  .skill-text {
+  .footer-button a {
     color: var(--primary-color);
+    border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
   }
-
+  
   #open-sourced a {
   font-size: 24px;
   color: var(--secondary-color);
