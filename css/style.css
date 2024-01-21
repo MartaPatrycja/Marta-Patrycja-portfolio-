@@ -40,6 +40,10 @@ ul {
   line-height: 1,5em;
 }
 
+li {
+  margin: 0 20px;
+}
+
 #collaboration,
 #contact {
   margin: 20px 20px;
