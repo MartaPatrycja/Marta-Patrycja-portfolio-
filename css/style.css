@@ -34,13 +34,13 @@ h5 {
   font-size: 44px; 
 }
 
-ul {
+#description {
   list-style-type: none;
   font-size: 22px;
   line-height: 1,5em;
 }
 
-li {
+#description-paragraphs {
   margin: 15px 0;
 }
 
@@ -50,7 +50,7 @@ li {
 }
 
 .top {
-  margin-top: 70px;
+  margin-top: 90px;
 }
 
 #work-iquiry {
