@@ -44,6 +44,7 @@ ul {
 #contact {
   margin-top: 20px;
 }
+
 .top {
   margin-top: 70px;
 }
@@ -70,6 +71,7 @@ p {
 
 .navbar {
   font-size: 24px;
+  text-align: right;
 }
 
 #navigation {
