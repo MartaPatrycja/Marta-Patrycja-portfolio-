@@ -85,7 +85,7 @@ p {
     border: var(--bg-color);
     border-radius: 20px;
     font-size: 20px;
-  border-radius: 4px;
+    text-align: center;
   padding: 20px 15px;
   text-decoration: none;
 }
