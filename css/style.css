@@ -266,6 +266,7 @@ a {
     box-shadow: var(--box-shadow);
     display: block;
     text-align: center;
+    font-size: 18px;
   }
 
   .primary-link {
