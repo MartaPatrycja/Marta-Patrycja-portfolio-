@@ -108,6 +108,7 @@ p {
 .contact-link {
   display: block;
   margin: 0 auto;
+  margin-bottom: 20px;
   color: black;
   border: 1px solid var(--bg-color);
   border-radius: 40px;
