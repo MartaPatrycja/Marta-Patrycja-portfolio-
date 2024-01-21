@@ -196,19 +196,21 @@ a {
   color: var(--mobile-links);
 }
   
-  .navigation-links a {
+  #footer-button{
     font-family: var(--font-accent);
     display: flex;
     margin: 0 auto;
     justify-content: center;
-    border: #FEB149;
+    color: var(--primary-color);
+    border: var(--bg-color);
     border-radius: 20px;
     max-width: 100px;
     transition: all 100ms ease-in-out;
   }
   
-  .navigation-links:hover {
+  #footer-button:hover {
     color: var(--primary-color);
+
     text-decoration: none;
     text-transform: capitalize;
   }
