@@ -79,15 +79,7 @@ p {
   font-size: 24px;
 }
 
-a.navigation-links:hover {
-  display: flex;
-  margin: 0 auto;
-  justify-content: center;
-  max-width: 100px;
-  transition: all 100ms ease-in-out;
-}
-
-a.navigation-links {
+.navigation-links a {
   font-family: var(--font-accent);
   color: var(--primary-color);
     border: var(--bg-color);
@@ -96,7 +88,10 @@ a.navigation-links {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
-  text-transform: capitalize;
+}
+
+.navigation-links:hover a {
+  transition: all 100ms ease-in-out;
 }
 
 .about-link {
@@ -193,10 +188,6 @@ img {
 #linkedin:hover {
   color: var(--bg-color);
   transition: all 100ms ease-in-out;
-}
-
-a {
-  color: var(--mobile-links);
 }
 
   #open-sourced a {
