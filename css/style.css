@@ -181,6 +181,10 @@ img {
   max-width: 90%;
   }
 
+.unsplash {
+  font-size: 8px;
+}
+
 .heading {
   text-align: center;
 }
