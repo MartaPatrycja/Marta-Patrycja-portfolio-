@@ -80,8 +80,6 @@ p {
 }
 
 .footer-button {
-  margin: 0 auto;
-  display: block;
   font-family: var(--font-accent);
   color: var(--primary-color);
   border: var(--bg-color);
