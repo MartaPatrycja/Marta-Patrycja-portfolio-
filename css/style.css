@@ -79,20 +79,6 @@ p {
   font-size: 24px;
 }
 
-.footer-button {
-  font-family: var(--font-accent);
-  color: var(--primary-color);
-  border: var(--bg-color);
-  border-radius: 20px;
-  font-size: 20px;
-  padding: 20px 15px;
-  text-decoration: none;
-}
-
-.footer-button:hover {
-  transition: all 100ms ease-in-out;
-}
-
 .about-link {
   color: black;
   border: 1px solid var(--bg-color);
@@ -186,6 +172,20 @@ img {
 #github:hover,
 #linkedin:hover {
   color: var(--bg-color);
+  transition: all 100ms ease-in-out;
+}
+
+.footer-button {
+  font-family: var(--font-accent);
+  color: var(--primary-color);
+  border-color: var(--bg-color);
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 20px 15px;
+  text-decoration: none;
+}
+
+.footer-button:hover {
   transition: all 100ms ease-in-out;
 }
 
