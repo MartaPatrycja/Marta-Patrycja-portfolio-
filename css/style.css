@@ -80,12 +80,13 @@ p {
 }
 
 .navigation-links a {
+  margin: 0 auto;
+  display: block;
   font-family: var(--font-accent);
   color: var(--primary-color);
     border: var(--bg-color);
     border-radius: 20px;
     font-size: 20px;
-    text-align: center;
   padding: 20px 15px;
   text-decoration: none;
 }
