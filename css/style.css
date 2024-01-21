@@ -60,7 +60,8 @@ ul {
   margin: 0 auto;
   background-color: var(--bg-color);
   color: white;
-  font-size: 34px;
+  margin-top: 70px;
+  font-size: 54px;
   text-decoration: none;
   border-radius: 40px;
   }
