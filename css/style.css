@@ -79,11 +79,7 @@ p {
   font-size: 24px;
 }
 
-.navigation-links {
-  font-family: var(--font-accent);
-  color: var(--primary-color);
-    border: var(--bg-color);
-    border-radius: 20px;
+a.navigation-links:hover {
   display: flex;
   margin: 0 auto;
   justify-content: center;
@@ -91,8 +87,12 @@ p {
   transition: all 100ms ease-in-out;
 }
 
-.navigation-links a {
+a.navigation-links {
+  font-family: var(--font-accent);
   color: var(--primary-color);
+    border: var(--bg-color);
+    border-radius: 20px;
+    font-size: 20px;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
