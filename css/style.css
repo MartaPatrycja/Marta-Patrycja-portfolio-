@@ -81,6 +81,9 @@ p {
 
 .navigation-links {
   font-family: var(--font-accent);
+  color: var(--primary-color);
+    border: var(--bg-color);
+    border-radius: 20px;
   display: flex;
   margin: 0 auto;
   justify-content: center;
@@ -195,25 +198,6 @@ img {
 a {
   color: var(--mobile-links);
 }
-  
-  #footer-button{
-    font-family: var(--font-accent);
-    display: flex;
-    margin: 0 auto;
-    justify-content: center;
-    color: var(--primary-color);
-    border: var(--bg-color);
-    border-radius: 20px;
-    max-width: 100px;
-    transition: all 100ms ease-in-out;
-  }
-  
-  #footer-button:hover {
-    color: var(--primary-color);
-
-    text-decoration: none;
-    text-transform: capitalize;
-  }
 
   #open-sourced a {
   font-size: 24px;
