@@ -182,7 +182,7 @@ img {
   }
 
 .unsplash {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .heading {
@@ -288,6 +288,11 @@ a {
     padding: 20px 20px;
     border-radius: 10px;
     font-weight: bolder;
+  }
+
+  .unsplash {
+    background: none;
+    font-size: 10px;
   }
 
   #open-sourced a {
