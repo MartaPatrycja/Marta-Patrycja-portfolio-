@@ -90,7 +90,7 @@ h5 {
 
  img:hover {
   transition: all 100ms ease-in-out;
-  image-rendering: pixelated;
+  image-orientation: flip;
     }
 
 p {
