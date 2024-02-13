@@ -88,7 +88,7 @@ h5 {
   max-width: 90%;
   }
 
- img:hover {
+  #gallery:hover {
   transition: all 100ms ease-in-out;
   transform: scale(0.5) rotate(15deg);
   }
