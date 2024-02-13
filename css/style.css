@@ -73,7 +73,7 @@ h5 {
 
   #projects {
     list-style-type: none;
-    display: block;
+    display: inline-flexbox;
     margin: 0 auto;
   }
 
