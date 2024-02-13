@@ -298,4 +298,7 @@ img {
     border-radius: 10px;
   }
 
+  .top {
+    margin-top: 20px;
+  }
 }
