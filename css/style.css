@@ -89,7 +89,9 @@ h5 {
   }
 
   #gallery:hover {
-  transition: margin-right 2s .5s;
+  transition: all 100ms ease-in-out;
+  transform: scale(0.7) rotate(15deg);
+  filter: grayscale(1);
   }
 
 p {
