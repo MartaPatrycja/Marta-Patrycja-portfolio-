@@ -88,6 +88,11 @@ h5 {
   max-width: 90%;
   }
 
+ img:hover {
+  transition: all 100ms ease-in-out;
+  image-rendering: pixelated;
+    }
+
 p {
   font-size: 22px;
   line-height: 1,5em;
