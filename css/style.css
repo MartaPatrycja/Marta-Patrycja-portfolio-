@@ -73,9 +73,17 @@ h5 {
 
   #projects {
     list-style-type: none;
-    display: inline-flexbox;
+    display: grid;
     margin: 0 auto;
   }
+
+  .grid {
+    display: grid;
+}
+
+.grid-3-columns-even {
+    grid-template-columns: 1fr 1fr 1fr;
+}
 
 p {
   font-size: 22px;
