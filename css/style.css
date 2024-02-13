@@ -83,6 +83,11 @@ h5 {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+#gallery {
+  display: flex;
+  max-width: 100%;
+  }
+
 p {
   font-size: 22px;
   line-height: 1,5em;
@@ -163,7 +168,8 @@ img {
 #photo {
   display: flex;
   max-width: 90%;
-  }
+}
+  
 
 .unsplash {
   font-size: 16px;
