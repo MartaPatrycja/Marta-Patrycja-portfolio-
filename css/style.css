@@ -286,7 +286,8 @@ img {
   p, 
   #description-paragraphs {
     background: var(--bg-color);
-    padding: 10px 10px;
+    padding-top: 10px;
+    padding-right: 32px;
     border-radius: 10px;
     font-weight: bolder;
   }
