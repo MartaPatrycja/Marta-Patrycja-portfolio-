@@ -79,7 +79,6 @@ h4 {
 
 #projects {
     list-style: none;
-    list-style-position: inside;
   }
 
 .grid {
@@ -303,7 +302,7 @@ img {
     }
   
     .grid {
-      max-width: 90%;;
+      padding-right: 32px;
       grid-template-columns: 1fr;
   }
 
