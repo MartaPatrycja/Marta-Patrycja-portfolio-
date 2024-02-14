@@ -8,7 +8,8 @@
 }
 
 h2,
-h3 {
+h3
+h4 {
   color: var(--primary-color);
   font-family: var(--font-accent);
 }
@@ -34,7 +35,7 @@ h5 {
   font-size: 44px; 
 }
 
-.subtitles {
+h4 {
   font-size: smaller;
   text-align: center;
 }
