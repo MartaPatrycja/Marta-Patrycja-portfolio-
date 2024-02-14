@@ -77,11 +77,11 @@ h4 {
   border-radius: 40px;
   }
 
-  #projects {
+#projects {
     list-style-type: none;
   }
 
-  .grid {
+.grid {
     display: grid;
 }
 
@@ -94,7 +94,7 @@ h4 {
   max-width: 90%;
   }
 
-  #gallery:hover {
+#gallery:hover {
   transition: all 100ms ease-in-out;
   transform: rotate(15deg);
   filter: grayscale(1);
@@ -147,11 +147,6 @@ p {
   color: white;
   background: var(--bg-color);
   }
-
-  .gallery:hover {
-    transition: all 100ms ease-in-out;
-    image-rendering: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6));
-    }
 
 .about-paragraphs, p {
   display: flex;
