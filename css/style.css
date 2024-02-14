@@ -78,8 +78,7 @@ h4 {
   }
 
 #projects {
-    list-style-type: none;
-    list-style-position: none;
+    list-style: none;
   }
 
 .grid {
