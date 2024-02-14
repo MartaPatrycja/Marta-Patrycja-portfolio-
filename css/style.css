@@ -79,7 +79,7 @@ h4 {
 
 #projects {
     list-style-type: none;
-    list-style-position: unset;
+    list-style-position: none;
   }
 
 .grid {
