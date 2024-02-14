@@ -303,6 +303,8 @@ img {
     }
   
     .grid {
+      display: block;
+      margin: 0 auto;
       grid-template-columns: 1fr;
   }
 
