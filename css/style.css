@@ -8,7 +8,7 @@
 }
 
 h2,
-h3
+h3,
 h4 {
   color: var(--primary-color);
   font-family: var(--font-accent);
@@ -37,7 +37,7 @@ h5 {
 
 h4 {
   text-align: center;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 #description {
   list-style-type: none;
