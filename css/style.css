@@ -90,7 +90,7 @@ h5 {
 
   #gallery:hover {
   transition: all 100ms ease-in-out;
-  transform: scale(0.7) rotate(15deg);
+  transform: scale(1.5) rotate(15deg);
   filter: grayscale(1);
   }
 
