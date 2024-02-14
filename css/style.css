@@ -36,8 +36,8 @@ h5 {
 }
 
 h4 {
-  font-size: smaller;
   text-align: center;
+  margin-top: 20px;
 }
 #description {
   list-style-type: none;
