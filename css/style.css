@@ -34,6 +34,10 @@ h5 {
   font-size: 44px; 
 }
 
+.subtitles {
+  font-size: smaller;
+  text-align: center;
+}
 #description {
   list-style-type: none;
   font-size: 22px;
