@@ -79,6 +79,7 @@ h4 {
 
 #projects {
     list-style: none;
+    list-style-position: outside;
   }
 
 .grid {
