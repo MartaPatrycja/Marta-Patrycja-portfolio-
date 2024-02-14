@@ -64,7 +64,6 @@ h4 {
   margin-top: 40px;
 }
 
-  
 #contact-me {
   display: block;
   margin: 0 auto;
@@ -225,12 +224,6 @@ img {
   color: var(--primary-color);
 }
 
-  #open-sourced a {
-  font-size: 24px;
-  color: var(--secondary-color);
-  transition: all 100ms ease-in-out;
-  }
-
 @media (max-width: 567px) {
 
   h2,
@@ -265,17 +258,10 @@ img {
   .email-link {
     font-size: 22px;
   }
+
   .social-media {
     font-size: 18px;
-  }
-
-  ul#tech-skills {
-    font-size: 18px;
-  }
-
-  .skill-text {
-    font-size: 10px;
-  }  
+  } 
 
   #description-paragraphs,
   .about-paragraphs, p {
