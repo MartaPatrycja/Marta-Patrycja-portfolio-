@@ -107,6 +107,22 @@ p {
   margin: 1em auto;
 }
 
+button {
+  color:black;
+  border:none;
+  padding:1em 1.3em;
+  margin-top:2em;
+  cursor:pointer;
+  text-align:center;
+}
+
+div {
+  display:flex;
+  justify-content:center;
+  border-top:1px solid;
+  margin-top:2em;
+}
+
 .navbar {
   font-size: 24px;
 }
